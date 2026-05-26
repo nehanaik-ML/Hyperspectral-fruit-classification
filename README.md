@@ -1,5 +1,5 @@
 # Hyperspectral-fruit-classification
-AI-based hyperspectral fruit classification using deep learning and handcrafted features.
+AI-based detection of naturally and artificially ripened bananas using hyperspectral imaging with deep learning and handcrafted spectral features.
 # AI-Based Spectral Fruit Classification
 
 This repository contains deep learning and machine learning approaches for differentiating naturally and artificially ripened fruits using hyperspectral imaging.
